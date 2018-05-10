@@ -2,7 +2,6 @@ HOW TO USE THE APP
 
 1. Copy Otto libraries into the Arduino IDE folder
 2. Upload OttoDIYAPP_122.ino sketch to Otto
-3. make sure your Bluetooth module is setup for 19200bpm or 9800bpm (most common for HC-05, HC06 or BLE modules)
 3. Install the APP .apk in your android phone
 4. Enable Bluetooth
 5. touch on find Otto and pair the Bluetooth address /name
