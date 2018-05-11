@@ -1,5 +1,5 @@
 
-# Otto DIY+
+# Otto DIY+ (PLUS)
 "Otto DIY with steroids" 
 
 This Repository have all open source files for Otto DIY+ an interactive robot that anyone can make!,
@@ -25,11 +25,9 @@ Gather all the off the shelf parts in the BOM file that you'll need for this ass
 1. Download & Install Arduino IDE: https://www.arduino.cc/en/Main/Software also this driver if you have a clone board: http://www.wch.cn/download/CH341SER_EXE.html for PC, or http://www.wch.cn/download/CH341SER_MAC_ZIP.html for MAC
 2. Copy all libraries to C:\Users\user\Documents\Arduino\libraries (or wherever your library folder is installed):
 3. Open  any .ino code, make sure in tools you have "Board: Arduino Nano" "Processor ATmega328" and your Otto is connected to the corresponding port
-4. Upload code to your Otto
-5. Check or setup your Bluetooth module baud rate
-6. Upload the Bluetooth APP code to Otto DIY+
-7. Play with the APP
-8. Share in our Otto builder Facebook group https://www.facebook.com/ottodiy/groups/
+4. Upload the APP code to Otto DIY+
+5. Download and install the  APP
+6. Share in our Otto builder Facebook group https://www.facebook.com/ottodiy/groups/
 
 ### Otto DIY+ is  design using Autodesk Fusion 360
 So is completely parametric and precise to adjust tolerances
@@ -56,7 +54,6 @@ Our broad community is awesome! we have been developing and improving OttoDIY pr
 | Nose and DIY APP |Feb 2017|Andrés Fernández Muñoz|Spain |
 | feedback  | March 2017   |Frank Lopez |United States |
 | feedback | March 2017  |Octavio P Nogueira |Brazil  |
-| feedback  | March 2017  |tritri62|??? |
 | Custom PCB | 	March 2017 |Marco|Italy |
 | Laser cut Otto |March 2017|Florian Festi|Germany |
 | XXL Head |March 2017|Markus Otte |Germany |
@@ -83,8 +80,11 @@ Our broad community is awesome! we have been developing and improving OttoDIY pr
 | LED eyes | January 2018 |Mr. Chan|China |
 | Otto learning| January 2018  |Hien Phan |Vietnam |
 | new APP BETA | February 2018 |Jason Snow |England |
+| Otto meets MARS | March 2018 |Jason Snow |England |
+| arduinoblocks | April 2018 |Juan |Spain |
+| libraries update | May 2018 |Jason Snow |England |
 
-Special thanks to all these #Ottobuilder that made and are making this project evolve and accessible to everyoone in the world. If we skip one please tell us!
+Special thanks to all these #Ottobuilder that made and are making this project evolve and accessible to everyoone in the world. If we we are missing one please let us know!
 
 ### Pending  to develop idea list
 Feel free to grab and mix ideas from this table for your Otto and if you are nice person please share with all the community
@@ -108,7 +108,7 @@ Feel free to grab and mix ideas from this table for your Otto and if you are nic
 | reaction to music  |keepon|vibrators|
 | Follow music | MP3 SD card|disco lights|
 | Voice commands |telegram|multiple boards|
-| clap rhythm |microphone|vibrators|
+| clap rhythm |arms codes|vibrators|
 
 ## License CC-BY-SA
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Otto DIY</span> by <a xmlns:cc="http://creativecommons.org/ns#"  property="cc:attributionName"> [www.ottodiy.com](http://www.ottodiy.com) </a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
