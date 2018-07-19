@@ -1,10 +1,10 @@
 HOW TO USE THE APP
 
-1. Copy Otto libraries into the Arduino IDE folder
-2. Upload OttoDIYAPP_122.ino sketch to Otto
+1. Copy Otto libraries into the Arduino IDE folder, replace all the old original libraries.
+2. Upload the 'OTTO_NEW_OTTO_APP_9600.ino' sketch to Otto
 3. Install the latest version APP .apk in your android phone
 4. Enable Bluetooth
-5. touch on find Otto and pair the Bluetooth address /name
+5. Search to find Otto and pair the Bluetooth address /name
 6. You should be able now to use the APP to control Otto
 7. You can also change the mode with the app at any time and play with the new features
 
