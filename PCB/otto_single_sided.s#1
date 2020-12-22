@@ -13568,12 +13568,13 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 </segment>
 <segment>
 <pinref part="GND7" gate="1" pin="GND"/>
-<wire x1="142.24" y1="119.38" x2="119.38" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="139.7" y1="119.38" x2="119.38" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="119.38" x2="119.38" y2="111.76" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="119.38" y1="111.76" x2="119.38" y2="106.68" width="0.1524" layer="91"/>
 <wire x1="139.7" y1="111.76" x2="119.38" y2="111.76" width="0.1524" layer="91"/>
 <junction x="119.38" y="111.76"/>
+<pinref part="R1" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
