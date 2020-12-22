@@ -7,6 +7,10 @@ the PCB is a single sided PCB to be milled by a cnc with only THD-parts (CADSoft
 the serial connection is commented out because Bluetooth module is using the RX/TX Pins - means no controlling by wire
 
 this way it is working with the OTTO DIY App now
+
+<a title="bq, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Arduino-nano-pinout.png"><img width="512" alt="Arduino-nano-pinout" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arduino-nano-pinout.png/512px-Arduino-nano-pinout.png"></a>
+
+
 ###
 
 
