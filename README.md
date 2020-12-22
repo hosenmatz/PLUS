@@ -1,5 +1,7 @@
 based on Arduino Nano clone from PRC
+
 the PCB is a self made single sided PCB to be milled by a cnc with only THD-parts
+
 additionally the serial connection is commented out to use only Bluetooth module
 
 ###
