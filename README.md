@@ -1,4 +1,5 @@
 based on Arduino Nano clone from PRC
+
 based on OTTO firmware v9
 
 the PCB is a single sided PCB to be milled by a cnc with only THD-parts
