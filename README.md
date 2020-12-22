@@ -12,7 +12,7 @@ this way it is working with the OTTO DIY App now
 
 # Otto DIY+ (PLUS)
 
-Special thanks to all these #Ottobuilder that made and are making this project evolve and accessible to everyoone in the world. If we we are missing one please let us know!
+Special thanks to all these #Ottobuilder that made and are making this project evolve and accessible to everyoone in the world.
 
 
 ## License CC-BY-SA
