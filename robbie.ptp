@@ -1,0 +1,45 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+COM17
+COM1
+9600
+2
+0
+4
+0
+0
+
+COMMDISPLAY
+0
+
+VERSATAP
+0
+
+CHANNELALIAS
+
+
+
+SEND
+0
+request battery
+42
+0
+5
+
+SEND
+1
+request Name
+45 0D 0A
+0
+5
+
+SEND
+2
+sing
+4B 20 31 0D 0A
+0
+5
+
