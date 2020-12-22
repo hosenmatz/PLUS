@@ -2,7 +2,7 @@ based on Arduino Nano clone from PRC
 
 based on OTTO firmware v9
 
-the PCB is a single sided PCB to be milled by a cnc with only THD-parts
+the PCB is a single sided PCB to be milled by a cnc with only THD-parts (CADSoft Eagle)
 
 the serial connection is commented out because Bluetooth module is using the RX/TX Pins - means no controlling by wire
 
