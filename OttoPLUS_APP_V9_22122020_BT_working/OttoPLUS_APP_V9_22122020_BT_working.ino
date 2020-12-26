@@ -85,6 +85,8 @@ void setup() {
   Serial.begin(9600);
   //SoftwareSerial auskommentiert, da BT und Software die gleichen Ports teilen (RX/TX auf singlesided PCB auf dem Nano)
   //BTserial.begin(9600);
+
+  Serial.println("AT+DISC");
   
   Otto.init(PIN_YL, PIN_YR, PIN_RL, PIN_RR, true, PIN_NoiseSensor, PIN_Buzzer, PIN_Trigger, PIN_Echo); //Set the servo pins and ultrasonic pins
   Otto.initMATRIX( DIN_PIN, CS_PIN, CLK_PIN, LED_DIRECTION);   // set up Matrix display pins = DIN pin,CS pin, CLK pin, MATRIX orientation 
